@@ -11,4 +11,4 @@ Moim głównym zadaniem jest zainteresować Cię tematem i sprawić, że poczuje
 
 ## Pati|-
 
-|​-To będzie na środku​-​|
+|​- To będzie na środku -​|
