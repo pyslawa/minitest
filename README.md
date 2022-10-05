@@ -9,4 +9,4 @@ Cześć! Nazywam się Patrycja. Wzięłam udział w projekcie, ponieważ pomyśl
 
 Moim głównym zadaniem jest zainteresować Cię tematem i sprawić, że poczujesz, że testowanie sprawia Ci przyjemność. Będę najszczęśliwsza na świecie, jeśli w przyszłości podzielisz się ze mną, czy udało Ci się dostać pracę jako tester! 
 
-*                                                                      Pati*
+                                                                    *Pati*
