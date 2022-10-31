@@ -23,6 +23,7 @@ Hej! Mam na imię Aga. Do projektu przyciągnęły mnie:
 - chęć nauczenia się czegoś nowego
 - poszukiwania innej ścieżki rozwoju zawodowego.
 <p>Badam teren, szukając zajęcia, które będzie sprawiało mi frajdę 🙂</p> 
+
 ## Subtask 4
 1. Aplikacja służy do przeglądania i gromadzenia danych o piłkarzach.
 2. Funkcjonalności w aplikacji:
