@@ -53,6 +53,7 @@ Hej! Mam na imię Aga. Do projektu przyciągnęły mnie:
 # **Task 5**
 ## **Subtask 3**
 **1. Wyświetl całą zawartość tabeli "actors".** 
+
 SELECT * FROM actors
 
 ![image](https://user-images.githubusercontent.com/52594962/200186170-446ab329-8b61-47fc-8e4f-92fe3e5ab19a.png)
