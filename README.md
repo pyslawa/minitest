@@ -48,3 +48,13 @@ Hej! Mam na imię Aga. Do projektu przyciągnęły mnie:
 3. Interfejs strony nie jest czytelny. Elementy są rozłożone chaotycznie, zdarzają się błędy językowe (np. Aktywnosć), nie wszystkie przekierowania działają (np. WRÓĆ DO RAPORTU na stronie głównej), brakuje oznaczenia miar (np. przy czasie gry), jest sporo różnic w formatowaniu (np. w wielkości i rodzaju czcionek), pomieszanie wersji polskiej i angielskiej (np. w wersji polskiej są: save, submit i clear), dodatkowo ostatnia funkcja - clear - nie działa poprawnie, nie działają również inne linki (np. do meczu). Zastanawiam się też, czy akcje z podsumowania na stronie głównej to zsumowane zdarzenia z raportów?
 4. Aplikacja jest umiarkowanie intuicyjna. Akcje związane z dodawaniem raportów i zdarzeń są niejasne, również na poziomie nazwy funkcji.
 5. Błędy opisałam we wcześniejszych odpowiedziach.
+
+
+# **Task 5**
+## **Subtask 3**
+**1. Wyświetl całą zawartość tabeli "actors".** 
+SELECT * FROM actors
+
+![image](https://user-images.githubusercontent.com/52594962/200186170-446ab329-8b61-47fc-8e4f-92fe3e5ab19a.png)
+
+
