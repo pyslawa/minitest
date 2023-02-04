@@ -13,6 +13,7 @@ Moim głównym zadaniem jest zainteresować Cię tematem i sprawić, że poczuje
 
 ##  **Pati**
 
+![image](https://user-images.githubusercontent.com/52594962/216778852-a7658432-2e01-4214-9190-3b2c953412b0.png)
 
 # **Task 1**
 ## **Subtask 1**
